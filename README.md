@@ -50,8 +50,8 @@ An AI-powered tool that generates **personalized resumes**, **tailored cover let
 
 ```bash
 # Clone the repository
-git clone https://github.com/sammetaraghu86/ai-resume-portfolio-builder.git
-cd ai-resume-portfolio-builder
+git clone https://github.com/ashok037/resume.ai.git
+cd resume.ai
 
 # Install dependencies
 npm install
